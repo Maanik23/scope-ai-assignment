@@ -67,7 +67,7 @@ An AI assistant that answers investor-style questions about company financials u
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/scope-ai-assignment.git
+git clone https://github.com/Maanik23/scope-ai-assignment.git
 cd scope-ai-assignment
 
 # Create virtual environment
